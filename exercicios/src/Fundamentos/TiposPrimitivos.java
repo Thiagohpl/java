@@ -35,19 +35,6 @@ public class TiposPrimitivos {
 	System.out.println("Status?:" + status);	
 	
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 	
 }
